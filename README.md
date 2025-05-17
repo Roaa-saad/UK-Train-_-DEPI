@@ -20,11 +20,11 @@ Home Page :
 Overview: High-level KPIs, refund stats, and delay rates.
 -<a href="Screenshot 2025-05-17 162948.png">Overview</a>
 Rail Performance: Sales trends, peak hours, and delay reasons.
--<a href="https://github.com/Aya-Osamaa/UK-Train-Rides-Dashboard/blob/main/Screenshot%202025-05-17%20161011.png](https://github.com/Roaa-saad/UK-Train-_-DEPI/blob/cffb9ecbb89942fda427c4e7b1fd0b16c37a5721/Screenshot%202025-05-17%20163019.png">Rail Performance</a>
+-<a href="Screenshot 2025-05-17 163019.png">Rail Performance</a>
 Passengers: Passenger demographics, ticket types, and purchase behaviors.
 -<a href="Screenshot 2025-05-17 163005.png">Passengers</a>
 Summary: Key insights and actionable recommendations.
--<a href="https://github.com/Aya-Osamaa/UK-Train-Rides-Dashboard/blob/main/Screenshot%202025-05-17%20161023.png">Summary</a>
+-<a href="Screenshot 2025-05-17 163031.png">Summary</a>
 
 ## Dataset
--<a href="https://docs.google.com/spreadsheets/d/1cwXHTBtwJGXpDOsHBeROoJc88U8iX9Dck9PESoGZjes/edit?usp=sharing">Dataset Link</a>
+-<a href="railway.csv">Dataset Link</a>
